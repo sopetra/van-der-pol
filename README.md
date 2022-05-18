@@ -18,7 +18,7 @@ Testiranje algoritma se postiže pokretanjem `van_der_pol.m` i/ili `van_der_pol_
 
 ## Licence
   
- [Van-der-pol](https://github.com/sopetra/van-der-pol) © 2021 by [Petra Sočo](https://github.com/sopetra) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
+ [Van-der-pol](https://github.com/sopetra/van-der-pol) © 2020 by [Petra Sočo](https://github.com/sopetra) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
 
 [![CC 4.0][cc-image]][cc]
 
