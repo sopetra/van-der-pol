@@ -9,8 +9,6 @@ Cluster project for university course [Znanstveno računanje 2](http://www.pmf.u
 
 ## Kratki opis 
 Rješavamo inicijalni problem običnih diferencijalnih jednadžbi 
-$v'(t)=f(t,v(t))$
-$v(t_0)=v_0$
 
 Detaljnije o teoriji i rezultatima može se naći u [tekstu](https://github.com/sopetra/van-der-pol/blob/main/Adams-Bashford-Moulton%20metoda%20i%20metoda%20diferencija%20unazad%20za%20rje%C5%A1avanje%20inicijalnog%20problema.pdf).
 
