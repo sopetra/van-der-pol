@@ -13,7 +13,7 @@ Rješavanje inicijalnog problema običnih diferencijalnih jednadžbi pomoću dvi
 Detaljnije o teoriji i rezultatima može se naći u [tekstu](https://github.com/sopetra/van-der-pol/blob/main/Adams-Bashford-Moulton%20metoda%20i%20metoda%20diferencija%20unazad%20za%20rje%C5%A1avanje%20inicijalnog%20problema.pdf).
 
 ## Pokretanje programa
-Testiranje algoritma se postiže pokretanjem `van_der_pol.m` i/ili `van_der_pol_p.m`.
+Testiranje algoritma se postiže pokretanjem `van_der_pol.m` za neprisiljenu jednadžbu, a `van_der_pol_p.m` za prisiljenu.
 
 
 ## Licence
