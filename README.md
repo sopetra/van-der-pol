@@ -4,7 +4,7 @@
 [![stability-beta](https://img.shields.io/badge/stability-beta-33bbff.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#beta)
 
 
-Cluster project for university course [Znanstveno računanje 2](http://www.pmf.unizg.hr/math/predmet/znarac2), academic year 2019/2020, University of Zagreb, Faculty of Science, Department of Mathematics.
+Van-der-pol project for university course [Znanstveno računanje 2](http://www.pmf.unizg.hr/math/predmet/znarac2), academic year 2019/2020, University of Zagreb, Faculty of Science, Department of Mathematics.
 
 
 ## Kratki opis 
